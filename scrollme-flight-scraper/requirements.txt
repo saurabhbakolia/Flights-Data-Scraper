@@ -1,0 +1,4 @@
+selenium==4.10.0
+pygame==2.5.0
+pandas==2.1.0
+webdriver-manager==4.10.1
